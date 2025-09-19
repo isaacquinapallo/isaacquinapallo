@@ -1,4 +1,5 @@
 # 👋 Hola, soy Isaac Quinapallo  
+(Banner 1500x500)
 
 💡 **Software Development Technologist | Full Stack Developer | Data Analyst | IT Enthusiast**
 
