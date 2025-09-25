@@ -9,6 +9,9 @@
 </p>
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=isaacquinapallo&label=Profile%20views&color=0e75b6&style=flat" alt="isaacquinapallo" />
+</p>
 
 💡 **Software Development Technologist | Full Stack Developer | Data Analyst | IT Enthusiast**
 
