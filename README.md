@@ -1,5 +1,6 @@
+[(Banner 1500x500)](https://media.licdn.com/dms/image/v2/D4E16AQE-yu7uiONdfg/profile-displaybackgroundimage-shrink_350_1400/B4EZl_LFDUKUAY-/0/1758775235443?e=1761782400&v=beta&t=HvQifXxzAFqPtpHif7Hzhx8LmHW1H7oVDusK8_jHvXo)
+
 # 👋 Hola, soy Isaac Quinapallo  
-(Banner 1500x500)
 
 💡 **Software Development Technologist | Full Stack Developer | Data Analyst | IT Enthusiast**
 
