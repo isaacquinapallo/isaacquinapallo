@@ -1,6 +1,8 @@
-[(Banner 1500x500)](https://media.licdn.com/dms/image/v2/D4E16AQE-yu7uiONdfg/profile-displaybackgroundimage-shrink_350_1400/B4EZl_LFDUKUAY-/0/1758775235443?e=1761782400&v=beta&t=HvQifXxzAFqPtpHif7Hzhx8LmHW1H7oVDusK8_jHvXo)
+<h1 align="center">👋 Hola, soy Isaac Quinapallo</h1>
 
-# 👋 Hola, soy Isaac Quinapallo  
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQE-yu7uiONdfg/profile-displaybackgroundimage-shrink_350_1400/B4EZl_LFDUKUAY-/0/1758775235443?e=1761782400&v=beta&t=HvQifXxzAFqPtpHif7Hzhx8LmHW1H7oVDusK8_jHvXo" alt="Banner" width="100%" />
+</p>
 
 💡 **Software Development Technologist | Full Stack Developer | Data Analyst | IT Enthusiast**
 
