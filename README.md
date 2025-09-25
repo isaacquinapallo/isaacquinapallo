@@ -22,7 +22,7 @@ Currently, I am part of the [**Vidanova**](https://vidanova.com.ec) team, where 
 
 ## 📌 Featured Experience  
 
-### [Vidanova](https://www.linkedin.com/company/vidanova/) *(1 year)*  
+### [Vidanova](https://www.linkedin.com/company/vidanova-ecuador/) *(1 year)*  
 
 - **Corporate Chatbot**: Integration with Meta & WhatsApp Business APIs, intelligent storage, adaptive logic, and customer support.  
 - **Data Analysis**: Automation with Python & Excel macros, data integration of more than 13,000 clients to improve decision-making.  
